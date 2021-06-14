@@ -1,0 +1,5 @@
+- 👋 | Hi everyone, I’m Erich Pulfer!
+- 👀 | I’m currently interested in reactive sound visuals, music production, and cybersecurity
+- 🌱 | I’m currently learning how to utilize Kali Linux
+- 📚 | I'm currently reading "Zeroes" by Chuck Wendig & "A Promised Land" by Barack Obama
+- 📫 | Email: emfp97@gmail.com
